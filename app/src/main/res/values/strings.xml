@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lingue</string>
+    <string name="nome">Name</string>
+    <string name="cognome">Surname</string>
+    <string name="user">Username</string>
+    <string name="pass" translatable="false">Password</string>
+    <string name="send">Register</string>
+    <string name="DialogTitle">"Hi "</string>
+    <string name="DialogMessage">Registration success</string>
+</resources>

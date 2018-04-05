@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lingue</string>
+    <string name="nome">Nome</string>
+    <string name="cognome">Cognome</string>
+    <string name="user">Nome utente</string>
+    <string name="send">Registrati</string>
+    <string name="DialogTitle">"Ciao "</string>
+    <string name="DialogMessage">Registrazione effettuata</string>
+</resources>
