@@ -7,4 +7,6 @@
     <string name="send">Register</string>
     <string name="DialogTitle">"Hi "</string>
     <string name="DialogMessage">Registration success</string>
+    <string name="errorDialog">Warning!</string>
+    <string name="errorMessage">Fill all the fields</string>
 </resources>
